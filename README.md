@@ -5,19 +5,19 @@
 - ⚡ Fun fact: I have two dogs and I really ❤️ my 🐶s
 
 ## My Stack
-Languages: Python, JavaScript
+🍇 Languages: Python, JavaScript
 <br>
-Backend: Django, Flask
+🍎 Backend: Django, Flask
 <br>
-Frontend: HTML5, CSS3, Bootstrap, UI/UX Desgin
+🍐 Frontend: HTML5, CSS3, Bootstrap, UI/UX Desgin
 <br>
-API: Django REST API
+🍑 API: Django REST API
 <br>
-Databases: MySQL, PostgreSQL
+🥝 Databases: MySQL, PostgreSQL
 <br>
-Experimenting: Django, Flask
+🥥 Experimenting: Django, Flask
 <br>
-Tools:Git, Github,Sketch
+🍅 Tools:Git, Github,Sketch
 <br>
 <!--
 **zoezhang926/zoezhang926** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
