@@ -1,5 +1,5 @@
 <a target="_blank" href="https://github.com/zoezhang926"><img width="450" height="400" align="right" src="https://cdn.dribbble.com/users/2050210/screenshots/4248160/ilustra-1-site.png"></a>
-# Zoe JS/Python developer
+## Zoe JS/Python developer
 - 🔭 I’m currently studying in Springboard Bootcamp
 - 🌱 I’m currently learning advanced JS, Python, React and SQL 
 - ⚡ Fun fact: I have two dogs and I really ❤️ my 🐶s
