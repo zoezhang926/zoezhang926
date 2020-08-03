@@ -1,5 +1,5 @@
 <a target="_blank" href="https://github.com/zoezhang926"><img width="500" align="right" src="https://cdn.dribbble.com/users/2050210/screenshots/4248160/ilustra-1-site.png"></a>
-#Hi there 👋 I am a JS/Python developer
+# Hi there 👋 I am a JS/Python developer
 
 - 🔭 I’m currently studying in Springboard Bootcamp
 - 🌱 I’m currently learning advanced JS, Python, React and SQL 
