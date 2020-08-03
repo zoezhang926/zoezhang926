@@ -2,7 +2,7 @@ Hi there 👋
 I am Zoe and I am a JS/Python developer
 
 · 🔭 I’m currently studying in Springboard
-· 🌱 I’m currently learning advanced JS, Python, React and SQL 
+🌱 I’m currently learning advanced JS, Python, React and SQL 
 · 💬 Ask me about anything related to Javascript/Typescript/Python
 · 📫 How to reach me: @zoezhang926
 · ⚡ Fun fact: I have two dogs and I really ❤️ my 🐶s
