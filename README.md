@@ -1,12 +1,27 @@
 <a target="_blank" href="https://github.com/zoezhang926"><img width="500" align="right" src="https://cdn.dribbble.com/users/2050210/screenshots/4248160/ilustra-1-site.png"></a>
-Hi there 👋
-I am Zoe and I am a JS/Python developer
+#Hi there 👋 I am Zoe and I am a JS/Python developer
 
 - 🔭 I’m currently studying in Springboard Bootcamp
 - 🌱 I’m currently learning advanced JS, Python, React and SQL 
 - 💬 Ask me about anything related to Javascript/Typescript/Python
 -  📫 How to reach me: @zoezhang926
 - ⚡ Fun fact: I have two dogs and I really ❤️ my 🐶s
+
+## My Stack
+Languages: Python, JavaScript
+<br>
+Backend: Django, Flask
+<br>
+Frontend: HTML5, CSS3, Bootstrap, UI/UX Desgin
+<br>
+API: Django REST API
+<br>
+Databases: MySQL, PostgreSQL
+<br>
+Experimenting: Django, Flask
+<br>
+Tools:Git, Github,Sketch
+<br>
 <!--
 **zoezhang926/zoezhang926** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
