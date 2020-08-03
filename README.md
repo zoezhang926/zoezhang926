@@ -1,4 +1,4 @@
-<a target="_blank" href="https://github.com/zoezhang926"><img width="200" align="right" src="https://cdn.dribbble.com/users/2050210/screenshots/4248160/ilustra-1-site.png"></a>
+<a target="_blank" href="https://github.com/zoezhang926"><img width="500" align="right" src="https://cdn.dribbble.com/users/2050210/screenshots/4248160/ilustra-1-site.png"></a>
 Hi there 👋
 I am Zoe and I am a JS/Python developer
 
