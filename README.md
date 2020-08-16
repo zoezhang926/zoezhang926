@@ -13,7 +13,7 @@
 <br>
 🍑 API: Django REST API
 <br>
-🥝 Databases: MySQL, PostgreSQL
+🥝 Databases: MySQL, PostgreSQL, SQLAlchemy
 <br>
 🥥 Experimenting: Django, Flask
 <br>
